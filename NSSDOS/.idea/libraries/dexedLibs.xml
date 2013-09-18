@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/slf4j-android-1.5.8-61d90d55451bb39dde6bc41bcd86c448.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/osmdroid-android-3.0.8-4a8f23d12a03f855d744a5aab090ccdd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/osmdroid-android-3.0.8-8b03dbe04023ee73936d4d717dec2180.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/slf4j-android-1.5.8-98db96ce903a118315f90815e8a697dc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-64a9d4936fb9aad34915a37f20bff4c5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/osmdroid-android-3.0.8-39e38d6f924b6686de87690413240067.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/slf4j-android-1.5.8-0316a3297208f083dbad50f95ce7e1d9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/osmbonuspack-4e2a4a8fd8a55eac229a92215b7c244a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/osmdroid-android-3.0.8-feb07d6d6b14cb99c0902fe2ec2b3673.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/slf4j-android-1.5.8-c0794cc511dfe2bde7069138e5852ecc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

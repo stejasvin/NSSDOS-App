@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menu_search"
+        
+        android:title="Search markers"/>
+    <item
+        android:id="@+id/menu_create_marker"
+       
+        android:title="Create Marker"/>
+    
+    <item
+        android:id="@+id/menu_clear"
+        
+        android:title="Clear All Markers"/>
+    
+    <item
+        android:id="@+id/menu_centre_me"
+        
+        android:title="Centre Me!"/>
+    
+     <item
+        android:id="@+id/menu_import_data"
+        
+        android:title="Import Data File"/>
+        
+</menu>
